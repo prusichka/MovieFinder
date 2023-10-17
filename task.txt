@@ -1,0 +1,32 @@
+Потрібно використати  (nuxt3, pinia, tailwind, element plus)
+
+// -------------------------------------------------------------------------------------------------------------------------------------------------------------- //
+
+
+Create a website called MovieFinder meeting the following requirements:
+MovieFinder is a search engine for movies.
+It should have at least a homepage a results page and a detail page.
+The homepage should contain a search box.
+The search box should allow the user to search for movies by Title.
+The results page should display the found movies in a slider.
+Every movie slide should contain the movie Title, Poster, Director and Year.
+The detail page should display a Title, Poster, Director and Year
+You can use The Open Movie Database’s API (https://www.omdbapi.com/) to fetch
+information about movies.
+Additionally, you can add the page with a form where the user can add his own movie with Title, Poster, Director, and Year. (without sending to any API)
+
+
+// -------------------------------------------------------------------------------------------------------------------------------------------------------------- //
+
+
+Створіть веб-сайт під назвою MovieFinder, який відповідає наступним вимогам:
+MovieFinder - це пошукова система для пошуку фільмів.
+Вона повинна мати принаймні домашню сторінку, сторінку результатів та сторінку деталей.
+Домашня сторінка повинна містити пошукове вікно.
+Пошукове вікно повинно дозволяти користувачеві шукати фільми за назвою.
+На сторінці результатів знайдені фільми повинні відображатися у вигляді слайдерів.
+Кожен слайд повинен містити назву фільму, постер, режисера та рік.
+На сторінці деталізації повинні відображатися назва, постер, режисер і рік.
+Ви можете використовувати API Відкритої бази даних фільмів (https://www.omdbapi.com/) для отримання
+інформацію про фільми.
+Крім того, ви можете додати на сторінку форму, де користувач може додати власний фільм з назвою, постером, режисером і роком. (без надсилання до будь-якого API)
