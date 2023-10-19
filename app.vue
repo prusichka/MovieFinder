@@ -1,4 +1,6 @@
 <template>
-	<Title>Movie Finder</Title>
-	<div>Home</div>
+	<NuxtLoadingIndicator />
+	<NuxtLayout>
+		<NuxtPage />
+	</NuxtLayout>
 </template>
